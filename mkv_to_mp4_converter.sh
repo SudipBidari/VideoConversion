@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Directory containing MKV files
-INPUT_DIR="./mkv"      # Change this to your input directory
-OUTPUT_DIR="./converted"    # Change this to your output directory
+INPUT_DIR="$1"      # Change this to your input directory
+OUTPUT_DIR="$2"    # Change this to your output directory
 
 # Create the output directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"
