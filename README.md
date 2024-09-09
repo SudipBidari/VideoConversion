@@ -17,5 +17,6 @@ Video conversion is where a video is converted from one format to another. Howev
 
 2. Make it executable:
    Run **chmod +x filename.sh** to make the script executable.
-   
-   
+
+3. Execute it on terminal:
+   **./filename.sh /input_directory /output_directory**
