@@ -9,7 +9,7 @@ Video conversion is where a video is converted from one format to another. Howev
 5. FLV to MP4
 
 ## How to use it?
-###To run it you must have homebrew on your device if you it's macOS. You can install hombrew on your device from **[here](https://brew.sh/)**.
+### To run it you must have homebrew on your device if you it's macOS. You can install hombrew on your device from [here](https://brew.sh/).
 
 1. Install FFmpeg:
    **MacOS:** Install via Homebrew with "**brew install ffmpeg**".
