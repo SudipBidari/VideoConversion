@@ -20,3 +20,10 @@ Video conversion is where a video is converted from one format to another. Howev
 
 3. Execute it on terminal:
    **./filename.sh /input_directory /output_directory**
+
+Now, All the files on your directory should be converted to mp4 format.
+
+**NOTE: Check the format of the video to be converted on your input directory and the format that the code supports as these are different scripts for different formats and the files
+        are expected to be run individually accoring to the format to be converted. Hope this explaination helped. :)**
+
+        🌸Have a Good Day!🌸
