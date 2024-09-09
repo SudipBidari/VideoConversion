@@ -13,4 +13,9 @@ Video conversion is where a video is converted from one format to another. Howev
 
 1. Install FFmpeg:
    **MacOS:** Install via Homebrew with "**brew install ffmpeg**".
+   **Linux:** Install via package manager with **sudo apt-get install ffmpeg**.
+
+2. Make it executable:
+   Run **chmod +x filename.sh** to make the script executable.
+   
    
