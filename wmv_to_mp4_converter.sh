@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source_dir="./mkv"
-dest_dir="./converted"
+source_dir="$1"
+dest_dir="$2"
 
 if [ -z "$source_dir" ]; then
     echo "Usage: $0 source_directory destination_directory"
