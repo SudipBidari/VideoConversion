@@ -12,7 +12,7 @@ Video conversion is where a video is converted from one format to another. Howev
 ### To run it you must have homebrew on your device if it's macOS. You can install hombrew on your device from [here](https://brew.sh/).
 
 1. Install FFmpeg:
-   **MacOS:** Install via Homebrew with "**brew install ffmpeg**".
+   **MacOS:** Install via Homebrew with **brew install ffmpeg**.
    **Linux:** Install via package manager with **sudo apt-get install ffmpeg**.
 
 2. Make it executable:
