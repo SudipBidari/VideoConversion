@@ -1,5 +1,5 @@
 # Video Conversion to mp4
-Video conversion is where a video is converted from one format to another. However, in this program we've focused on conversion of different video formats to mp4 which is generally or we could say widely used. It uses shell script, so it only supports MacOS or UNIX based Operating System only.
+Video conversion is where a video is converted from one format to another. However, in this program we've focused on conversion of different video formats to mp4 which is generally or we could say widely used. It uses shell script, so it only supports MacOS or UNIX based Operating System only. Executing this script will convert your selected video format on your directory to mp4 and stores the output in a different destination directory as per your choice.
 
 ## List of coversions supported rn:
 1. MKV to MP4
